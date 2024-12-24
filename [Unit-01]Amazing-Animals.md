@@ -4,7 +4,7 @@
 
 An **orangutan** swings from a tree in Kabili-Sepilok Forest Reserve, Malaysia. `P7`
 
-## A: The Incredible Dolphin
+## Reading A: The Incredible Dolphin
 
 - leap
 
@@ -40,7 +40,7 @@ The **orca**, or killer whale, is actually a kind of dolphin. `P11`
 
 - gist
 
-The **gist** of a text is what the text is mainly about. `P12`
+When you read for the **gist**, don't read every word. `P12`
 
 - breed
 
@@ -61,3 +61,43 @@ A **wandering** albatross. `P12`
 - albatross
 
 A wandering **albatross**. `P12`
+
+## Reading B: Musical Elephants
+
+- trunk
+
+Each elephants uses its **trunk** to play different instruments such as the drum or the xylophone. `P14`
+
+- xylophone
+
+Each elephants uses its trunk to play different instruments such as the drum or the **xylophone**. `P14`
+
+- orchestra
+
+To test his idea, Lair and a friend started the Thai Elephant **Orchestra**. `P15`
+
+- properly
+
+But can elephants really make music **properly**? `P15`
+
+- mahout
+
+Here, a **mahout** in Sri Lanka is brushing the teeth of his elephant. `P16`
+
+- gallery
+
+Now, an online **gallery** sells paintings by these elephant artists. `P18`
+
+- symphony
+
+This painting, called "Green **Symphony**", was painted by Phong, an elephant at the Lampang Elephant Art Academy. `P18`
+
+## Video: Monkey College
+
+- spin
+
+The trainer shows the monkey how to **spin** a coconut. `P19`
+
+- macaque
+
+This pig-tailed **Macaque** (Macaca nemestrina) is trained to pick coconuts. `P20`
